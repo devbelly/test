@@ -4,3 +4,4 @@ movie3
 food1
 food2
 food3
+add animals
